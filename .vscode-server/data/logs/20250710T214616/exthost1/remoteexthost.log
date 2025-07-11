@@ -1,0 +1,52 @@
+2025-07-10 21:46:17.163 [info] Extension host with pid 56673 started
+2025-07-10 21:46:17.163 [info] Lock '/home/ord_git/.vscode-server/data/User/workspaceStorage/ca157c6bea69d993533285b01c3387da/vscode.lock': Lock acquired.
+2025-07-10 21:46:17.358 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-07-10 21:46:17.359 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onChatParticipant:github.copilot.editsAgent'
+2025-07-10 21:46:17.924 [error] PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///home/ord_git/.vscode-server/bin/cb0c47c0cfaad0757385834bd89d410c78a856c0/out/vs/workbench/api/node/extensionHostProcess.js:356:6146)
+    at /home/ord_git/.vscode-server/extensions/github.copilot-chat-0.29.0/dist/extension.js:344:48517
+    at /home/ord_git/.vscode-server/extensions/github.copilot-chat-0.29.0/dist/extension.js:1:262
+    at /home/ord_git/.vscode-server/extensions/github.copilot-chat-0.29.0/dist/extension.js:344:50910
+    at /home/ord_git/.vscode-server/extensions/github.copilot-chat-0.29.0/dist/extension.js:1:262
+    at /home/ord_git/.vscode-server/extensions/github.copilot-chat-0.29.0/dist/extension.js:344:51981
+    at /home/ord_git/.vscode-server/extensions/github.copilot-chat-0.29.0/dist/extension.js:1:262
+    at /home/ord_git/.vscode-server/extensions/github.copilot-chat-0.29.0/dist/extension.js:344:54167
+    at /home/ord_git/.vscode-server/extensions/github.copilot-chat-0.29.0/dist/extension.js:1:262
+    at /home/ord_git/.vscode-server/extensions/github.copilot-chat-0.29.0/dist/extension.js:351:2591
+    at /home/ord_git/.vscode-server/extensions/github.copilot-chat-0.29.0/dist/extension.js:1:262
+    at /home/ord_git/.vscode-server/extensions/github.copilot-chat-0.29.0/dist/extension.js:352:2671
+    at /home/ord_git/.vscode-server/extensions/github.copilot-chat-0.29.0/dist/extension.js:1:262
+    at /home/ord_git/.vscode-server/extensions/github.copilot-chat-0.29.0/dist/extension.js:352:9338
+    at /home/ord_git/.vscode-server/extensions/github.copilot-chat-0.29.0/dist/extension.js:1:262
+    at /home/ord_git/.vscode-server/extensions/github.copilot-chat-0.29.0/dist/extension.js:354:21442
+    at /home/ord_git/.vscode-server/extensions/github.copilot-chat-0.29.0/dist/extension.js:1:262
+    at /home/ord_git/.vscode-server/extensions/github.copilot-chat-0.29.0/dist/extension.js:354:25509
+    at /home/ord_git/.vscode-server/extensions/github.copilot-chat-0.29.0/dist/extension.js:1:262
+    at /home/ord_git/.vscode-server/extensions/github.copilot-chat-0.29.0/dist/extension.js:354:27007
+    at /home/ord_git/.vscode-server/extensions/github.copilot-chat-0.29.0/dist/extension.js:1:262
+    at Object.<anonymous> (/home/ord_git/.vscode-server/extensions/github.copilot-chat-0.29.0/dist/extension.js:2265:4556)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1282:12)
+    at e._load (file:///home/ord_git/.vscode-server/bin/cb0c47c0cfaad0757385834bd89d410c78a856c0/out/vs/workbench/api/node/extensionHostProcess.js:356:5519)
+    at t._load (file:///home/ord_git/.vscode-server/bin/cb0c47c0cfaad0757385834bd89d410c78a856c0/out/vs/workbench/api/node/extensionHostProcess.js:174:22697)
+    at r._load (file:///home/ord_git/.vscode-server/bin/cb0c47c0cfaad0757385834bd89d410c78a856c0/out/vs/workbench/api/node/extensionHostProcess.js:166:25633)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.<anonymous> (node:internal/modules/cjs/loader:1487:12)
+    at require (node:internal/modules/helpers:135:16)
+    at KG.Cb (file:///home/ord_git/.vscode-server/bin/cb0c47c0cfaad0757385834bd89d410c78a856c0/out/vs/workbench/api/node/extensionHostProcess.js:205:1253)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-07-10 21:46:18.067 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'api', root cause: GitHub.copilot-chat
+2025-07-10 21:46:18.200 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: GitHub.copilot-chat
+2025-07-10 21:46:18.382 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-07-10 21:46:18.908 [info] Eager extensions activated
+2025-07-10 21:46:18.908 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-07-10 21:46:18.909 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-07-10 21:46:18.909 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-07-10 21:46:21.508 [warning] [Decorations] CAPPING events from decorations provider vscode.git 11566
+2025-07-10 21:46:23.112 [warning] [Decorations] CAPPING events from decorations provider vscode.git 11566
+2025-07-10 21:47:28.289 [info] Extension host terminating: received terminate message from renderer
+2025-07-10 21:47:28.290 [info] Lock '/home/ord_git/.vscode-server/data/User/workspaceStorage/ca157c6bea69d993533285b01c3387da/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-07-10 21:47:28.431 [info] Extension host with pid 56673 exiting with code 0

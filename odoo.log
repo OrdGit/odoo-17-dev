@@ -1,0 +1,328 @@
+2025-07-10 18:05:03,845 36956 INFO ? odoo: Odoo version 17.0 
+2025-07-10 18:05:03,845 36956 INFO ? odoo: Using configuration file at /home/ord_git/odoo/odoo.conf 
+2025-07-10 18:05:03,845 36956 INFO ? odoo: addons paths: ['/home/ord_git/odoo/odoo/addons', '/home/ord_git/.local/share/Odoo/addons/17.0', '/home/ord_git/odoo/addons'] 
+2025-07-10 18:05:03,845 36956 INFO ? odoo: database: odoo17@default:default 
+2025-07-10 18:05:04,041 36956 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/bin/wkhtmltopdf 
+2025-07-10 18:05:04,641 36956 INFO ? odoo.service.server: HTTP service (werkzeug) running on Admin.localdomain:8069 
+2025-07-10 18:05:04,646 36956 INFO ? odoo.sql_db: Connection to the database failed 
+2025-07-10 18:05:04,649 36956 INFO ? odoo.sql_db: Connection to the database failed 
+2025-07-10 18:05:10,731 36956 INFO ? odoo.sql_db: Connection to the database failed 
+2025-07-10 18:05:10,757 36956 INFO ? werkzeug: 127.0.0.1 - - [10/Jul/2025 18:05:10] "GET / HTTP/1.1" 303 - 0 0.000 0.034
+2025-07-10 18:05:10,771 36956 INFO ? odoo.sql_db: Connection to the database failed 
+2025-07-10 18:05:10,775 36956 INFO ? odoo.sql_db: Connection to the database failed 
+2025-07-10 18:05:10,776 36956 INFO ? werkzeug: 127.0.0.1 - - [10/Jul/2025 18:05:10] "GET /web HTTP/1.1" 303 - 0 0.000 0.009
+2025-07-10 18:05:11,000 36956 INFO ? odoo.sql_db: Connection to the database failed 
+2025-07-10 18:05:11,508 36956 INFO ? odoo.sql_db: Connection to the database failed 
+2025-07-10 18:05:11,552 36956 INFO ? werkzeug: 127.0.0.1 - - [10/Jul/2025 18:05:11] "GET /web/database/selector HTTP/1.1" 200 - 0 0.000 0.555
+2025-07-10 18:06:37,569 36956 INFO ? odoo.service.server: Initiating shutdown 
+2025-07-10 18:06:37,573 36956 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-07-10 18:09:37,401 38405 INFO ? odoo: Odoo version 17.0 
+2025-07-10 18:09:37,401 38405 INFO ? odoo: Using configuration file at /home/ord_git/odoo/odoo.conf 
+2025-07-10 18:09:37,401 38405 INFO ? odoo: addons paths: ['/home/ord_git/odoo/odoo/addons', '/home/ord_git/.local/share/Odoo/addons/17.0', '/home/ord_git/odoo/addons'] 
+2025-07-10 18:09:37,401 38405 INFO ? odoo: database: odoo17@default:default 
+2025-07-10 18:09:37,518 38405 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/bin/wkhtmltopdf 
+2025-07-10 18:09:37,892 38405 INFO ? odoo.service.server: HTTP service (werkzeug) running on Admin.localdomain:8069 
+2025-07-10 18:09:37,894 38405 INFO ? odoo.sql_db: Connection to the database failed 
+2025-07-10 18:09:37,896 38405 INFO ? odoo.sql_db: Connection to the database failed 
+2025-07-10 18:10:10,015 38405 INFO ? odoo.service.server: Initiating shutdown 
+2025-07-10 18:10:10,015 38405 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-07-10 18:10:20,206 38702 INFO ? odoo: Odoo version 17.0 
+2025-07-10 18:10:20,206 38702 INFO ? odoo: Using configuration file at /home/ord_git/odoo/odoo.conf 
+2025-07-10 18:10:20,206 38702 INFO ? odoo: addons paths: ['/home/ord_git/odoo/odoo/addons', '/home/ord_git/.local/share/Odoo/addons/17.0', '/home/ord_git/odoo/addons'] 
+2025-07-10 18:10:20,207 38702 INFO ? odoo: database: odoo17@default:default 
+2025-07-10 18:10:20,321 38702 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/bin/wkhtmltopdf 
+2025-07-10 18:10:20,719 38702 INFO ? odoo.service.server: HTTP service (werkzeug) running on Admin.localdomain:8069 
+2025-07-10 18:10:20,721 38702 INFO ? odoo.sql_db: Connection to the database failed 
+2025-07-10 18:10:20,724 38702 INFO ? odoo.sql_db: Connection to the database failed 
+2025-07-10 18:12:41,491 39871 INFO ? odoo: Odoo version 17.0 
+2025-07-10 18:12:41,492 39871 INFO ? odoo: Using configuration file at /home/ord_git/odoo/odoo.conf 
+2025-07-10 18:12:41,492 39871 INFO ? odoo: addons paths: ['/home/ord_git/odoo/odoo/addons', '/home/ord_git/.local/share/Odoo/addons/17.0', '/home/ord_git/odoo/addons'] 
+2025-07-10 18:12:41,492 39871 INFO ? odoo: database: odoo17@default:default 
+2025-07-10 18:12:41,621 39871 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/bin/wkhtmltopdf 
+2025-07-10 18:12:41,994 39871 INFO ? odoo.sql_db: Connection to the database failed 
+2025-07-10 18:12:41,997 39871 INFO ? odoo.sql_db: Connection to the database failed 
+2025-07-10 18:14:25,359 40567 INFO ? odoo: Odoo version 17.0 
+2025-07-10 18:14:25,361 40567 INFO ? odoo: Using configuration file at /home/ord_git/odoo/odoo.conf 
+2025-07-10 18:14:25,361 40567 INFO ? odoo: addons paths: ['/home/ord_git/odoo/odoo/addons', '/home/ord_git/.local/share/Odoo/addons/17.0', '/home/ord_git/odoo/addons'] 
+2025-07-10 18:14:25,361 40567 INFO ? odoo: database: odoo17@default:default 
+2025-07-10 18:14:25,475 40567 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/bin/wkhtmltopdf 
+2025-07-10 18:14:25,840 40567 INFO ? odoo.sql_db: Connection to the database failed 
+2025-07-10 18:14:25,842 40567 INFO ? odoo.sql_db: Connection to the database failed 
+2025-07-10 18:17:01,077 41998 INFO ? odoo: Odoo version 17.0 
+2025-07-10 18:17:01,078 41998 INFO ? odoo: Using configuration file at /home/ord_git/odoo/odoo.conf 
+2025-07-10 18:17:01,078 41998 INFO ? odoo: addons paths: ['/home/ord_git/odoo/odoo/addons', '/home/ord_git/.local/share/Odoo/addons/17.0', '/home/ord_git/odoo/addons'] 
+2025-07-10 18:17:01,079 41998 INFO ? odoo: database: odoo17@default:default 
+2025-07-10 18:17:01,191 41998 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/bin/wkhtmltopdf 
+2025-07-10 18:17:01,541 41998 INFO ? odoo.sql_db: Connection to the database failed 
+2025-07-10 18:17:01,543 41998 INFO ? odoo.sql_db: Connection to the database failed 
+2025-07-10 18:18:46,962 41998 INFO ? odoo.service.server: Initiating shutdown 
+2025-07-10 18:18:46,966 41998 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-07-10 18:26:36,514 46278 INFO ? odoo: Odoo version 17.0 
+2025-07-10 18:26:36,515 46278 INFO ? odoo: Using configuration file at /home/ord_git/odoo/odoo.conf 
+2025-07-10 18:26:36,515 46278 INFO ? odoo: addons paths: ['/home/ord_git/odoo/odoo/addons', '/home/ord_git/.local/share/Odoo/addons/17.0', '/home/ord_git/odoo/addons'] 
+2025-07-10 18:26:36,515 46278 INFO ? odoo: database: odoo17@default:default 
+2025-07-10 18:26:36,632 46278 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/bin/wkhtmltopdf 
+2025-07-10 18:31:04,848 49669 INFO ? odoo: Odoo version 17.0 
+2025-07-10 18:31:04,849 49669 INFO ? odoo: Using configuration file at /home/ord_git/odoo/odoo.conf 
+2025-07-10 18:31:04,849 49669 INFO ? odoo: addons paths: ['/home/ord_git/odoo/odoo/addons', '/home/ord_git/.local/share/Odoo/addons/17.0', '/home/ord_git/odoo/addons'] 
+2025-07-10 18:31:04,849 49669 INFO ? odoo: database: odoo17@default:default 
+2025-07-10 18:31:04,969 49669 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/bin/wkhtmltopdf 
+2025-07-10 18:32:52,788 50538 INFO ? odoo: Odoo version 17.0 
+2025-07-10 18:32:52,790 50538 INFO ? odoo: Using configuration file at /home/ord_git/odoo/odoo.conf 
+2025-07-10 18:32:52,790 50538 INFO ? odoo: addons paths: ['/home/ord_git/odoo/odoo/addons', '/home/ord_git/.local/share/Odoo/addons/17.0', '/home/ord_git/odoo/addons'] 
+2025-07-10 18:32:52,790 50538 INFO ? odoo: database: odoo17@default:default 
+2025-07-10 18:32:52,910 50538 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/bin/wkhtmltopdf 
+2025-07-10 18:32:53,254 50538 INFO ? odoo.service.server: HTTP service (werkzeug) running on Admin.localdomain:8069 
+2025-07-10 18:32:57,709 50538 INFO ? werkzeug: 127.0.0.1 - - [10/Jul/2025 18:32:57] "GET / HTTP/1.1" 303 - 1 0.025 0.018
+2025-07-10 18:32:57,734 50538 INFO ? werkzeug: 127.0.0.1 - - [10/Jul/2025 18:32:57] "GET /web HTTP/1.1" 303 - 2 0.004 0.017
+2025-07-10 18:32:56,832 50538 INFO ? werkzeug: 127.0.0.1 - - [10/Jul/2025 18:32:56] "GET /web/database/selector HTTP/1.1" 200 - 2 0.003 -1.091
+2025-07-10 18:35:13,317 50538 INFO None odoo.service.db: Create database `odoo_17_test`. 
+2025-07-10 18:35:14,314 50538 INFO None odoo.modules.loading: loading 1 modules... 
+2025-07-10 18:35:14,315 50538 INFO None odoo.modules.loading: Loading module base (1/1) 
+2025-07-10 18:35:14,332 50538 INFO None odoo.modules.registry: module base: creating or updating database tables 
+2025-07-10 18:35:14,947 50538 INFO None odoo.models: Prepare computation of ir.module.module.menus_by_module 
+2025-07-10 18:35:14,947 50538 INFO None odoo.models: Prepare computation of ir.module.module.reports_by_module 
+2025-07-10 18:35:14,947 50538 INFO None odoo.models: Prepare computation of ir.module.module.views_by_module 
+2025-07-10 18:35:15,191 50538 INFO None odoo.models: Prepare computation of res.partner.user_id 
+2025-07-10 18:35:15,191 50538 INFO None odoo.models: Prepare computation of res.partner.commercial_partner_id 
+2025-07-10 18:35:15,192 50538 INFO None odoo.models: Prepare computation of res.partner.complete_name 
+2025-07-10 18:35:15,192 50538 INFO None odoo.models: Prepare computation of res.partner.company_registry 
+2025-07-10 18:35:15,192 50538 INFO None odoo.models: Prepare computation of res.partner.commercial_company_name 
+2025-07-10 18:35:15,192 50538 INFO None odoo.models: Prepare computation of res.partner.partner_share 
+2025-07-10 18:35:15,263 50538 INFO None odoo.models: Prepare computation of res.currency.decimal_places 
+2025-07-10 18:35:15,312 50538 INFO None odoo.models: Prepare computation of res.company.uses_default_logo 
+2025-07-10 18:35:15,312 50538 INFO None odoo.models: Prepare computation of res.company.logo_web 
+2025-07-10 18:35:15,318 50538 INFO None odoo.models: Computing parent_path for table res_company... 
+2025-07-10 18:35:15,368 50538 INFO None odoo.models: Prepare computation of res.users.signature 
+2025-07-10 18:35:15,368 50538 INFO None odoo.models: Prepare computation of res.users.share 
+2025-07-10 18:35:17,525 50538 INFO None odoo.modules.loading: loading base/data/res_bank.xml 
+2025-07-10 18:35:17,533 50538 INFO None odoo.modules.loading: loading base/data/res.lang.csv 
+2025-07-10 18:35:17,566 50538 INFO None odoo.modules.loading: loading base/data/res_lang_data.xml 
+2025-07-10 18:35:17,597 50538 INFO None odoo.modules.loading: loading base/data/res_partner_data.xml 
+2025-07-10 18:35:17,652 50538 INFO None odoo.modules.loading: loading base/data/res_currency_data.xml 
+2025-07-10 18:35:18,100 50538 INFO None odoo.modules.loading: loading base/data/res_company_data.xml 
+2025-07-10 18:35:18,114 50538 INFO None odoo.modules.loading: loading base/data/res_users_data.xml 
+2025-07-10 18:35:19,029 50538 INFO None odoo.modules.loading: loading base/data/report_paperformat_data.xml 
+2025-07-10 18:35:19,041 50538 INFO None odoo.modules.loading: loading base/data/res_country_data.xml 
+2025-07-10 18:35:19,575 50538 INFO None odoo.modules.loading: loading base/data/ir_demo_data.xml 
+2025-07-10 18:35:19,587 50538 INFO None odoo.modules.loading: loading base/security/base_groups.xml 
+2025-07-10 18:35:20,038 50538 INFO None odoo.modules.loading: loading base/security/base_security.xml 
+2025-07-10 18:35:20,191 50538 INFO None odoo.modules.loading: loading base/views/base_menus.xml 
+2025-07-10 18:35:20,276 50538 INFO None odoo.modules.loading: loading base/views/decimal_precision_views.xml 
+2025-07-10 18:35:20,299 50538 INFO None odoo.modules.loading: loading base/views/res_config_views.xml 
+2025-07-10 18:35:20,308 50538 INFO None odoo.modules.loading: loading base/data/res.country.state.csv 
+2025-07-10 18:35:20,841 50538 INFO None odoo.modules.loading: loading base/views/ir_actions_views.xml 
+2025-07-10 18:35:21,045 50538 INFO None odoo.modules.loading: loading base/views/ir_asset_views.xml 
+2025-07-10 18:35:21,073 50538 INFO None odoo.modules.loading: loading base/views/ir_config_parameter_views.xml 
+2025-07-10 18:35:21,095 50538 INFO None odoo.modules.loading: loading base/views/ir_cron_views.xml 
+2025-07-10 18:35:21,125 50538 INFO None odoo.modules.loading: loading base/views/ir_cron_trigger_views.xml 
+2025-07-10 18:35:21,143 50538 INFO None odoo.modules.loading: loading base/views/ir_filters_views.xml 
+2025-07-10 18:35:21,164 50538 INFO None odoo.modules.loading: loading base/views/ir_mail_server_views.xml 
+2025-07-10 18:35:21,184 50538 INFO None odoo.modules.loading: loading base/views/ir_model_views.xml 
+2025-07-10 18:35:21,334 50538 INFO None odoo.modules.loading: loading base/views/ir_attachment_views.xml 
+2025-07-10 18:35:21,358 50538 INFO None odoo.modules.loading: loading base/views/ir_rule_views.xml 
+2025-07-10 18:35:21,386 50538 INFO None odoo.modules.loading: loading base/views/ir_sequence_views.xml 
+2025-07-10 18:35:21,406 50538 INFO None odoo.modules.loading: loading base/views/ir_ui_menu_views.xml 
+2025-07-10 18:35:21,427 50538 INFO None odoo.modules.loading: loading base/views/ir_ui_view_views.xml 
+2025-07-10 18:35:21,474 50538 INFO None odoo.modules.loading: loading base/views/ir_default_views.xml 
+2025-07-10 18:35:21,495 50538 INFO None odoo.modules.loading: loading base/data/ir_cron_data.xml 
+2025-07-10 18:35:21,508 50538 INFO None odoo.modules.loading: loading base/report/ir_model_report.xml 
+2025-07-10 18:35:21,513 50538 INFO None odoo.modules.loading: loading base/report/ir_model_templates.xml 
+2025-07-10 18:35:21,522 50538 INFO None odoo.modules.loading: loading base/views/ir_logging_views.xml 
+2025-07-10 18:35:21,547 50538 INFO None odoo.modules.loading: loading base/views/ir_qweb_widget_templates.xml 
+2025-07-10 18:35:21,566 50538 INFO None odoo.modules.loading: loading base/views/ir_module_views.xml 
+2025-07-10 18:35:21,619 50538 INFO None odoo.modules.loading: loading base/data/ir_module_category_data.xml 
+2025-07-10 18:35:21,679 50538 INFO None odoo.modules.loading: loading base/data/ir_module_module.xml 
+2025-07-10 18:35:21,751 50538 INFO None odoo.modules.loading: loading base/report/ir_module_reports.xml 
+2025-07-10 18:35:21,759 50538 INFO None odoo.modules.loading: loading base/report/ir_module_report_templates.xml 
+2025-07-10 18:35:21,766 50538 INFO None odoo.modules.loading: loading base/wizard/base_module_update_views.xml 
+2025-07-10 18:35:21,783 50538 INFO None odoo.modules.loading: loading base/wizard/base_language_install_views.xml 
+2025-07-10 18:35:21,811 50538 INFO None odoo.modules.loading: loading base/wizard/base_import_language_views.xml 
+2025-07-10 18:35:21,834 50538 INFO None odoo.modules.loading: loading base/wizard/base_module_upgrade_views.xml 
+2025-07-10 18:35:21,858 50538 INFO None odoo.modules.loading: loading base/wizard/base_module_uninstall_views.xml 
+2025-07-10 18:35:21,870 50538 INFO None odoo.modules.loading: loading base/wizard/base_export_language_views.xml 
+2025-07-10 18:35:21,887 50538 INFO None odoo.modules.loading: loading base/wizard/base_partner_merge_views.xml 
+2025-07-10 18:35:21,904 50538 INFO None odoo.modules.loading: loading base/data/ir_demo_failure_data.xml 
+2025-07-10 18:35:21,923 50538 INFO None odoo.modules.loading: loading base/views/ir_profile_views.xml 
+2025-07-10 18:35:21,949 50538 INFO None odoo.modules.loading: loading base/views/res_company_views.xml 
+2025-07-10 18:35:21,978 50538 INFO None odoo.modules.loading: loading base/views/res_lang_views.xml 
+2025-07-10 18:35:22,002 50538 INFO None odoo.modules.loading: loading base/views/res_partner_views.xml 
+2025-07-10 18:35:22,112 50538 INFO None odoo.modules.loading: loading base/views/res_bank_views.xml 
+2025-07-10 18:35:22,148 50538 INFO None odoo.modules.loading: loading base/views/res_country_views.xml 
+2025-07-10 18:35:22,188 50538 INFO None odoo.modules.loading: loading base/views/res_currency_views.xml 
+2025-07-10 18:35:22,225 50538 INFO None odoo.modules.loading: loading base/views/res_users_views.xml 
+2025-07-10 18:35:22,330 50538 INFO None odoo.modules.loading: loading base/views/res_users_identitycheck_views.xml 
+2025-07-10 18:35:22,343 50538 INFO None odoo.modules.loading: loading base/views/ir_property_views.xml 
+2025-07-10 18:35:22,365 50538 INFO None odoo.modules.loading: loading base/views/res_config_settings_views.xml 
+2025-07-10 18:35:22,373 50538 INFO None odoo.modules.loading: loading base/views/report_paperformat_views.xml 
+2025-07-10 18:35:22,400 50538 INFO None odoo.modules.loading: loading base/security/ir.model.access.csv 
+2025-07-10 18:35:22,561 50538 INFO None odoo.modules.loading: Module base loaded in 8.25s, 7940 queries (+7940 other) 
+2025-07-10 18:35:22,561 50538 INFO None odoo.modules.loading: 1 modules loaded in 8.25s, 7940 queries (+7940 extra) 
+2025-07-10 18:35:22,588 50538 INFO None odoo.modules.loading: updating modules list 
+2025-07-10 18:35:22,588 50538 INFO None odoo.addons.base.models.ir_module: ALLOW access to module.update_list on [] to user __system__ #1 via n/a 
+2025-07-10 18:35:23,148 50538 INFO None odoo.modules.loading: loading 11 modules... 
+2025-07-10 18:35:23,148 50538 INFO None odoo.modules.loading: Loading module web (2/11) 
+2025-07-10 18:35:23,168 50538 INFO None odoo.modules.registry: module web: creating or updating database tables 
+2025-07-10 18:35:23,615 50538 INFO None odoo.modules.loading: loading web/security/ir.model.access.csv 
+2025-07-10 18:35:23,627 50538 INFO None odoo.modules.loading: loading web/views/webclient_templates.xml 
+2025-07-10 18:35:23,671 50538 INFO None odoo.modules.loading: loading web/views/report_templates.xml 
+2025-07-10 18:35:23,739 50538 INFO None odoo.modules.loading: loading web/views/base_document_layout_views.xml 
+2025-07-10 18:35:23,754 50538 INFO None odoo.modules.loading: loading web/views/partner_view.xml 
+2025-07-10 18:35:23,759 50538 INFO None odoo.modules.loading: loading web/views/speedscope_template.xml 
+2025-07-10 18:35:23,764 50538 INFO None odoo.modules.loading: loading web/views/neutralize_views.xml 
+2025-07-10 18:35:23,771 50538 INFO None odoo.modules.loading: loading web/data/ir_attachment.xml 
+2025-07-10 18:35:23,776 50538 INFO None odoo.modules.loading: loading web/data/report_layout.xml 
+2025-07-10 18:35:23,822 50538 INFO None odoo.modules.loading: Module web loaded in 0.67s, 993 queries (+993 other) 
+2025-07-10 18:35:23,822 50538 INFO None odoo.modules.loading: Loading module auth_totp (3/11) 
+2025-07-10 18:35:23,865 50538 INFO None odoo.modules.registry: module auth_totp: creating or updating database tables 
+2025-07-10 18:35:23,930 50538 INFO None odoo.modules.loading: loading auth_totp/security/security.xml 
+2025-07-10 18:35:23,958 50538 INFO None odoo.modules.loading: loading auth_totp/security/ir.model.access.csv 
+2025-07-10 18:35:23,968 50538 INFO None odoo.modules.loading: loading auth_totp/data/ir_action_data.xml 
+2025-07-10 18:35:23,974 50538 INFO None odoo.modules.loading: loading auth_totp/views/res_users_views.xml 
+2025-07-10 18:35:23,996 50538 INFO None odoo.modules.loading: loading auth_totp/views/templates.xml 
+2025-07-10 18:35:24,003 50538 INFO None odoo.modules.loading: loading auth_totp/wizard/auth_totp_wizard_views.xml 
+2025-07-10 18:35:24,024 50538 INFO None odoo.modules.loading: Module auth_totp loaded in 0.20s, 179 queries (+179 other) 
+2025-07-10 18:35:24,024 50538 INFO None odoo.modules.loading: Loading module base_import (4/11) 
+2025-07-10 18:35:24,059 50538 INFO None odoo.modules.registry: module base_import: creating or updating database tables 
+2025-07-10 18:35:24,520 50538 INFO None odoo.modules.loading: loading base_import/security/ir.model.access.csv 
+2025-07-10 18:35:24,541 50538 INFO None odoo.modules.loading: Module base_import loaded in 0.52s, 805 queries (+805 other) 
+2025-07-10 18:35:24,541 50538 INFO None odoo.modules.loading: Loading module base_import_module (5/11) 
+2025-07-10 18:35:24,571 50538 INFO None odoo.modules.registry: module base_import_module: creating or updating database tables 
+2025-07-10 18:35:24,639 50538 INFO None odoo.modules.loading: loading base_import_module/security/ir.model.access.csv 
+2025-07-10 18:35:24,651 50538 INFO None odoo.modules.loading: loading base_import_module/views/base_import_module_view.xml 
+2025-07-10 18:35:24,667 50538 INFO None odoo.modules.loading: loading base_import_module/views/ir_module_views.xml 
+2025-07-10 18:35:24,709 50538 INFO None odoo.modules.loading: Module base_import_module loaded in 0.17s, 154 queries (+154 other) 
+2025-07-10 18:35:24,710 50538 INFO None odoo.modules.loading: Loading module base_setup (6/11) 
+2025-07-10 18:35:24,734 50538 INFO None odoo.modules.registry: module base_setup: creating or updating database tables 
+2025-07-10 18:35:24,781 50538 INFO None odoo.modules.loading: loading base_setup/data/base_setup_data.xml 
+2025-07-10 18:35:24,788 50538 INFO None odoo.modules.loading: loading base_setup/views/res_config_settings_views.xml 
+2025-07-10 18:35:24,818 50538 INFO None odoo.modules.loading: loading base_setup/views/res_partner_views.xml 
+2025-07-10 18:35:24,840 50538 INFO None odoo.modules.loading: Module base_setup loaded in 0.13s, 139 queries (+139 other) 
+2025-07-10 18:35:24,841 50538 INFO None odoo.modules.loading: Loading module bus (7/11) 
+2025-07-10 18:35:24,883 50538 INFO None odoo.modules.registry: module bus: creating or updating database tables 
+2025-07-10 18:35:24,967 50538 INFO None odoo.modules.loading: loading bus/security/ir.model.access.csv 
+2025-07-10 18:35:24,990 50538 INFO None odoo.modules.loading: Module bus loaded in 0.15s, 116 queries (+116 other) 
+2025-07-10 18:35:24,991 50538 INFO None odoo.modules.loading: Loading module web_tour (8/11) 
+2025-07-10 18:35:25,010 50538 INFO None odoo.modules.registry: module web_tour: creating or updating database tables 
+2025-07-10 18:35:25,077 50538 INFO None odoo.modules.loading: loading web_tour/security/ir.model.access.csv 
+2025-07-10 18:35:25,087 50538 INFO None odoo.modules.loading: loading web_tour/security/ir.rule.csv 
+2025-07-10 18:35:25,097 50538 INFO None odoo.modules.loading: loading web_tour/views/tour_views.xml 
+2025-07-10 18:35:25,132 50538 INFO None odoo.modules.loading: Module web_tour loaded in 0.14s, 104 queries (+104 other) 
+2025-07-10 18:35:25,132 50538 INFO None odoo.modules.loading: Loading module iap (9/11) 
+2025-07-10 18:35:25,158 50538 INFO None odoo.modules.registry: module iap: creating or updating database tables 
+2025-07-10 18:35:25,234 50538 INFO None odoo.modules.loading: loading iap/security/ir.model.access.csv 
+2025-07-10 18:35:25,245 50538 INFO None odoo.modules.loading: loading iap/security/ir_rule.xml 
+2025-07-10 18:35:25,254 50538 INFO None odoo.modules.loading: loading iap/views/iap_views.xml 
+2025-07-10 18:35:25,274 50538 INFO None odoo.modules.loading: loading iap/views/res_config_settings.xml 
+2025-07-10 18:35:25,300 50538 INFO None odoo.modules.loading: Module iap loaded in 0.17s, 151 queries (+151 other) 
+2025-07-10 18:35:25,300 50538 INFO None odoo.modules.loading: Loading module web_editor (10/11) 
+2025-07-10 18:35:25,390 50538 INFO None odoo.modules.registry: module web_editor: creating or updating database tables 
+2025-07-10 18:35:25,872 50538 INFO None odoo.modules.loading: loading web_editor/security/ir.model.access.csv 
+2025-07-10 18:35:25,886 50538 INFO None odoo.modules.loading: loading web_editor/data/editor_assets.xml 
+2025-07-10 18:35:25,891 50538 INFO None odoo.modules.loading: loading web_editor/views/editor.xml 
+2025-07-10 18:35:25,904 50538 INFO None odoo.modules.loading: loading web_editor/views/snippets.xml 
+2025-07-10 18:35:25,945 50538 INFO None odoo.modules.loading: Module web_editor loaded in 0.65s, 911 queries (+911 other) 
+2025-07-10 18:35:25,946 50538 INFO None odoo.modules.loading: Loading module web_unsplash (11/11) 
+2025-07-10 18:35:25,969 50538 INFO None odoo.modules.registry: module web_unsplash: creating or updating database tables 
+2025-07-10 18:35:26,008 50538 INFO None odoo.modules.loading: loading web_unsplash/views/res_config_settings_view.xml 
+2025-07-10 18:35:26,038 50538 INFO None odoo.modules.loading: Module web_unsplash loaded in 0.09s, 95 queries (+95 other) 
+2025-07-10 18:35:26,038 50538 INFO None odoo.modules.loading: 11 modules loaded in 2.89s, 3647 queries (+3647 extra) 
+2025-07-10 18:35:26,291 50538 INFO None odoo.modules.loading: Modules loaded. 
+2025-07-10 18:35:26,298 50538 INFO None odoo.modules.registry: Registry loaded in 11.994s 
+2025-07-10 18:35:27,284 50538 INFO None odoo.addons.base.models.res_users: Login successful for db:odoo_17_test login:rejus.nedzviega@ordoline.com from 127.0.0.1 
+2025-07-10 18:35:27,298 50538 INFO None werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:27] "POST /web/database/create HTTP/1.1" 303 - 17556 8.621 5.825
+2025-07-10 18:35:27,305 50538 INFO odoo_17_test odoo.addons.base.models.ir_http: Generating routing map for key None 
+2025-07-10 18:35:27,315 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:27] "GET /web HTTP/1.1" 303 - 5 0.002 0.010
+2025-07-10 18:35:27,470 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:27] "GET /web/login HTTP/1.1" 200 - 51 0.021 0.129
+2025-07-10 18:35:27,856 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:27] "GET /web/binary/company_logo HTTP/1.1" 200 - 2 0.004 0.036
+2025-07-10 18:35:27,864 50538 INFO odoo_17_test odoo.addons.base.models.assetsbundle: Generating a new asset bundle attachment /web/assets/5efca37/web.assets_frontend_minimal.min.js (id:14) 
+2025-07-10 18:35:27,869 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:27] "GET /web/assets/5efca37/web.assets_frontend_minimal.min.js HTTP/1.1" 200 - 12 0.010 0.041
+2025-07-10 18:35:28,613 50538 INFO odoo_17_test odoo.addons.base.models.assetsbundle: Generating a new asset bundle attachment /web/assets/aa492d2/web.assets_frontend.min.css (id:15) 
+2025-07-10 18:35:28,617 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:28] "GET /web/assets/aa492d2/web.assets_frontend.min.css HTTP/1.1" 200 - 9 0.017 0.785
+2025-07-10 18:35:29,171 50538 INFO odoo_17_test odoo.addons.base.models.assetsbundle: Generating a new asset bundle attachment /web/assets/6be4fd8/web.assets_frontend_lazy.min.js (id:16) 
+2025-07-10 18:35:29,174 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:29] "GET /web/assets/6be4fd8/web.assets_frontend_lazy.min.js HTTP/1.1" 200 - 9 0.005 0.391
+2025-07-10 18:35:29,582 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:29] "GET /web/webclient/translations/1752172529053 HTTP/1.1" 200 - 4 0.002 0.005
+2025-07-10 18:35:31,326 50538 INFO odoo_17_test odoo.addons.base.models.res_users: Login successful for db:odoo_17_test login:rejus.nedzviega@ordoline.com from 127.0.0.1 
+2025-07-10 18:35:31,332 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:31] "POST /web/login HTTP/1.1" 303 - 27 0.014 0.436
+2025-07-10 18:35:31,428 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:31] "GET /web HTTP/1.1" 200 - 63 0.023 0.068
+2025-07-10 18:35:31,766 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:31] "GET /web/webclient/load_menus/172bef6a7af96680ac3a6d836ca7e789cae2e213afe9556bbb3468597f3484c3 HTTP/1.1" 200 - 1 0.001 0.013
+2025-07-10 18:35:31,770 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:31] "GET /web/webclient/translations/c097a4426362f8e75854b784c5418b565eb85939?lang=en_US HTTP/1.1" 200 - 3 0.004 0.012
+2025-07-10 18:35:32,704 50538 INFO odoo_17_test odoo.addons.base.models.assetsbundle: Generating a new asset bundle attachment /web/assets/ca6ece9/web.assets_web.min.css (id:17) 
+2025-07-10 18:35:32,722 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:32] "GET /web/assets/ca6ece9/web.assets_web.min.css HTTP/1.1" 200 - 12 0.028 0.946
+2025-07-10 18:35:33,337 50538 INFO odoo_17_test odoo.addons.base.models.assetsbundle: Generating a new asset bundle attachment /web/assets/e27ec96/web.assets_web.min.js (id:18) 
+2025-07-10 18:35:33,349 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:33] "GET /web/assets/e27ec96/web.assets_web.min.js HTTP/1.1" 200 - 11 0.011 1.588
+2025-07-10 18:35:33,536 50538 INFO odoo_17_test odoo.addons.base.models.assetsbundle: Generating a new asset bundle attachment /web/assets/ef1cc84/bus.websocket_worker_assets.min.js (id:19) 
+2025-07-10 18:35:33,539 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:33] "GET /bus/websocket_worker_bundle?v=17.0-1 HTTP/1.1" 200 - 8 0.003 0.013
+2025-07-10 18:35:33,855 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:33] "POST /web/action/load HTTP/1.1" 200 - 9 0.005 0.008
+2025-07-10 18:35:33,874 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:33] "GET /web/manifest.webmanifest HTTP/1.1" 200 - 7 0.009 0.006
+2025-07-10 18:35:33,881 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:33] "GET /web/image?model=res.users&field=avatar_128&id=2 HTTP/1.1" 200 - 8 0.006 0.015
+2025-07-10 18:35:33,887 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:33] "GET /websocket?version=17.0-1 HTTP/1.1" 101 - 1 0.000 0.007
+2025-07-10 18:35:33,887 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:33] "GET /web/service-worker.js HTTP/1.1" 200 - 1 0.001 0.012
+2025-07-10 18:35:34,204 50538 INFO ? werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:34] "GET /web/static/img/odoo-icon-192x192.png HTTP/1.1" 200 - 0 0.000 0.004
+2025-07-10 18:35:34,218 50538 INFO ? odoo.addons.bus.models.bus: Bus.loop listen imbus on db postgres 
+2025-07-10 18:35:34,234 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:34] "GET /web/offline HTTP/1.1" 200 - 6 0.007 0.018
+2025-07-10 18:35:34,274 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:34] "POST /web/dataset/call_kw/ir.module.module/get_views HTTP/1.1" 200 - 48 0.033 0.044
+2025-07-10 18:35:34,612 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:34] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 1 0.001 0.005
+2025-07-10 18:35:34,645 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:34] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 39 0.023 0.016
+2025-07-10 18:35:34,671 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:34] "POST /web/dataset/call_kw/ir.module.module/web_search_read HTTP/1.1" 200 - 4 0.004 0.059
+2025-07-10 18:35:34,893 50538 INFO ? werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:34] "GET /pos_restaurant/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.002
+2025-07-10 18:35:35,145 50538 INFO ? werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:35] "GET /project_todo/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.001
+2025-07-10 18:35:44,395 50538 INFO ? werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:44] "GET /base/static/img/icons/sale_amazon.png HTTP/1.1" 200 - 0 0.000 0.001
+2025-07-10 18:35:44,537 50538 INFO odoo_17_test odoo.addons.base.models.ir_cron: Starting job `Base: Auto-vacuum internal data`. 
+2025-07-10 18:35:44,553 50538 INFO odoo_17_test odoo.addons.base.models.ir_attachment: filestore gc 16 checked, 0 removed 
+2025-07-10 18:35:44,587 50538 INFO odoo_17_test odoo.addons.base.models.res_users: GC'd 1 user log entries 
+2025-07-10 18:35:44,615 50538 INFO odoo_17_test odoo.addons.auth_totp.models.auth_totp: GC'd 0 totp devices entries 
+2025-07-10 18:35:44,623 50538 INFO odoo_17_test odoo.addons.base.models.ir_cron: Job done: `Base: Auto-vacuum internal data` (0.085s). 
+2025-07-10 18:35:44,631 50538 INFO odoo_17_test odoo.addons.base.models.ir_cron: Starting job `Base: Portal Users Deletion`. 
+2025-07-10 18:35:44,634 50538 INFO odoo_17_test odoo.addons.base.models.ir_cron: Job done: `Base: Portal Users Deletion` (0.003s). 
+2025-07-10 18:35:55,550 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:55] "POST /web/dataset/call_kw/ir.module.module/web_search_read HTTP/1.1" 200 - 4 0.005 0.032
+2025-07-10 18:35:55,556 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:55] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 36 0.030 0.015
+2025-07-10 18:35:59,644 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:35:59] "POST /web/action/load HTTP/1.1" 200 - 8 0.004 0.006
+2025-07-10 18:36:00,013 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:36:00] "POST /web/dataset/call_kw/res.config.settings/get_views HTTP/1.1" 200 - 7 0.005 0.012
+2025-07-10 18:36:00,283 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:36:00] "POST /web/dataset/call_kw/res.config.settings/onchange HTTP/1.1" 200 - 24 0.010 0.010
+2025-07-10 18:36:00,360 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:36:00] "POST /base_setup/demo_active HTTP/1.1" 200 - 2 0.002 0.004
+2025-07-10 18:36:00,655 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:36:00] "POST /base_setup/data HTTP/1.1" 200 - 6 0.003 0.004
+2025-07-10 18:36:03,932 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:36:03] "POST /web/action/load HTTP/1.1" 200 - 11 0.005 0.008
+2025-07-10 18:36:04,307 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:36:04] "POST /web/dataset/call_kw/res.users/get_views HTTP/1.1" 200 - 44 0.020 0.032
+2025-07-10 18:36:04,517 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:36:04] "POST /web/dataset/call_kw/res.users/web_search_read HTTP/1.1" 200 - 15 0.006 0.007
+2025-07-10 18:36:04,626 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:36:04] "POST /web/dataset/call_kw/res.users/has_group HTTP/1.1" 200 - 2 0.002 0.003
+2025-07-10 18:36:16,115 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:36:16] "POST /web/dataset/call_kw/res.config.settings/onchange HTTP/1.1" 200 - 7 0.003 0.008
+2025-07-10 18:36:41,740 50538 INFO odoo_17_test odoo.addons.base.models.ir_cron: Starting job `Base: Auto-vacuum internal data`. 
+2025-07-10 18:36:41,754 50538 INFO odoo_17_test odoo.addons.base.models.ir_attachment: filestore gc 0 checked, 0 removed 
+2025-07-10 18:36:41,785 50538 INFO odoo_17_test odoo.addons.base.models.res_users: GC'd 0 user log entries 
+2025-07-10 18:36:41,805 50538 INFO odoo_17_test odoo.addons.auth_totp.models.auth_totp: GC'd 0 totp devices entries 
+2025-07-10 18:36:41,816 50538 INFO odoo_17_test odoo.addons.base.models.ir_cron: Job done: `Base: Auto-vacuum internal data` (0.077s). 
+2025-07-10 18:36:44,035 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:36:44] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 1 0.001 0.005
+2025-07-10 18:36:44,062 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:36:44] "POST /web/dataset/call_kw/ir.module.module/web_search_read HTTP/1.1" 200 - 3 0.005 0.025
+2025-07-10 18:36:44,077 50538 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:36:44] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 36 0.029 0.017
+2025-07-10 18:45:55,660 39871 INFO ? odoo.service.server: Initiating server reload 
+2025-07-10 18:45:55,662 40567 INFO ? odoo.service.server: Initiating server reload 
+2025-07-10 18:45:55,670 46278 INFO ? odoo.service.server: Initiating server reload 
+2025-07-10 18:45:55,683 46278 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 2 connections  
+2025-07-10 18:45:56,849 46278 INFO ? odoo: Odoo version 17.0 
+2025-07-10 18:45:56,849 46278 INFO ? odoo: Using configuration file at /home/ord_git/odoo/odoo.conf 
+2025-07-10 18:45:56,849 46278 INFO ? odoo: addons paths: ['/home/ord_git/odoo/odoo/addons', '/home/ord_git/.local/share/Odoo/addons/17.0', '/home/ord_git/odoo/addons'] 
+2025-07-10 18:45:56,849 46278 INFO ? odoo: database: odoo17@default:default 
+2025-07-10 18:45:56,859 40567 INFO ? odoo: Odoo version 17.0 
+2025-07-10 18:45:56,859 40567 INFO ? odoo: Using configuration file at /home/ord_git/odoo/odoo.conf 
+2025-07-10 18:45:56,859 40567 INFO ? odoo: addons paths: ['/home/ord_git/odoo/odoo/addons', '/home/ord_git/.local/share/Odoo/addons/17.0', '/home/ord_git/odoo/addons'] 
+2025-07-10 18:45:56,859 40567 INFO ? odoo: database: odoo17@default:default 
+2025-07-10 18:45:56,860 39871 INFO ? odoo: Odoo version 17.0 
+2025-07-10 18:45:56,860 39871 INFO ? odoo: Using configuration file at /home/ord_git/odoo/odoo.conf 
+2025-07-10 18:45:56,860 39871 INFO ? odoo: addons paths: ['/home/ord_git/odoo/odoo/addons', '/home/ord_git/.local/share/Odoo/addons/17.0', '/home/ord_git/odoo/addons'] 
+2025-07-10 18:45:56,860 39871 INFO ? odoo: database: odoo17@default:default 
+2025-07-10 18:45:56,949 46278 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/bin/wkhtmltopdf 
+2025-07-10 18:45:56,954 39871 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/bin/wkhtmltopdf 
+2025-07-10 18:45:56,964 40567 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at /usr/bin/wkhtmltopdf 
+2025-07-10 18:45:57,354 40567 INFO ? odoo.service.server: HTTP service (werkzeug) running on Admin.localdomain:8069 
+2025-07-10 18:45:57,354 39871 INFO ? odoo.service.server: HTTP service (werkzeug) running on Admin.localdomain:8069 
+2025-07-10 18:45:57,354 46278 INFO ? odoo.service.server: HTTP service (werkzeug) running on Admin.localdomain:8069 
+2025-07-10 18:46:27,587 40567 INFO ? odoo.modules.loading: loading 1 modules... 
+2025-07-10 18:46:27,594 40567 INFO ? odoo.modules.loading: 1 modules loaded in 0.01s, 0 queries (+0 extra) 
+2025-07-10 18:46:27,598 40567 INFO ? odoo.modules.loading: loading 11 modules... 
+2025-07-10 18:46:27,634 40567 INFO ? odoo.modules.loading: 11 modules loaded in 0.04s, 0 queries (+0 extra) 
+2025-07-10 18:46:27,655 40567 INFO ? odoo.modules.loading: Modules loaded. 
+2025-07-10 18:46:27,658 40567 INFO ? odoo.modules.registry: Registry loaded in 0.085s 
+2025-07-10 18:46:27,661 40567 INFO odoo_17_test odoo.addons.base.models.ir_http: Generating routing map for key None 
+2025-07-10 18:46:27,675 40567 INFO odoo_17_test werkzeug: 127.0.0.1 - - [10/Jul/2025 18:46:27] "GET /websocket?version=17.0-1 HTTP/1.1" 101 - 22 0.015 0.089
+2025-07-10 18:46:28,007 40567 INFO ? odoo.addons.bus.models.bus: Bus.loop listen imbus on db postgres 
