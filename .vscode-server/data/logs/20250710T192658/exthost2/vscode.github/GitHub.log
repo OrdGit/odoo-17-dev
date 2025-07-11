@@ -1,3 +1,0 @@
-2025-07-10 19:46:47.377 [info] Log level: Info
-2025-07-10 20:05:02.045 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
-2025-07-10 21:40:24.529 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_getCommitAuthor] Failed to get commit author for OrdGit/odoo-17-dev/750fe9a8d432b0891c8c21a2166454fe342acd1d: TypeError: Cannot read properties of null (reading 'author')
